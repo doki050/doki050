@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doki050
 - 👀 I’m interested in Java, HTML, CSS, JavaScript, Python
-- 🌱 I’m currently learning React, Typescript
+- 🌱 I’m currently learning React, TypeScript
 - 📫 How to reach me kovacs.benjamin.mark99@gmail.com
 
 <!---
