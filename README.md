@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doki050
-- 👀 I’m interested in Python, Java, HTML, CSS
-- 🌱 I’m currently learning Python, Java, HTML, CSS
+- 👀 I’m interested in Java, HTML, CSS, JavaScript
+- 🌱 I’m currently learning React, Typescript
 - 📫 How to reach me kovacs.benjamin.mark99@gmail.com
 
 <!---
