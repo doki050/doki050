@@ -1,5 +1,5 @@
     Hi, My name is Kovács Benjamin Mark
-      I'm studying Software development here at the moment: BUDAPESTI MŰSZAKI ÉS GAZDASÁGTUDOMÁNYI EGYETEM (BME) / BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS
+      I'm studying Software development here at the moment: BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS (BME)
         I’m currently interested in learning from freeCodeCamp Curriculum
 
 <!---
