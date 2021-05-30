@@ -1,6 +1,6 @@
     Hi, My name is Kovács Benjamin Mark
       I'm studying Software development here at the moment: BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS (BME)
-        I’m currently interested in learning from freeCodeCamp Curriculum
+        I’m currently interested in learning from MDN / freeCodeCamp Curriculum / frontendmasters
 
 <!---
 doki050/doki050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
