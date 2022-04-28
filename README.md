@@ -1,5 +1,6 @@
-    Hi, My name is Kovács Benjamin Mark
-      I'm studying Software development here at the moment: BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS (BME)
+    Hello, I'm Kovács Benjamin Mark
+      I have started learning Software development at this University: BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS (BME)
+      
 
 <!---
 doki050/doki050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
