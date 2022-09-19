@@ -1,5 +1,5 @@
-    Hello, I'm Kovács Benjamin Mark
-      I have started learning Software development at this University: BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS (BME)
+    Hello, I'm Kovács Benjamin Mark 
+      I attended in education at this university: Budapest, Budapest University Of Technology And Economics
       
 
 <!---
