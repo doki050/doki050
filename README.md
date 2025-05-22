@@ -6,6 +6,6 @@
 
 💡 I have a keen interest in cloud computing and have been exploring both Azure and AWS services.
 
-I'm always open to discussing collaborations, and industry insights. Feel free to reach out.
+I'm always open to discussing industry insights. Feel free to reach out.
 
 [Linkedin](https://www.linkedin.com/in/kovacsbenjaminmark)
