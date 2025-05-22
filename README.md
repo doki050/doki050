@@ -1,6 +1,6 @@
 ## Software Developer | .NET | AWS Enthusiast 🚀
 
-👋 Hello! I'm Benjamin, a passionate software developer with 2+ years of hands-on experience in backend development using .NET technologies.
+👋 Hello! I'm Benjamin, a passionate software developer with 3+ years of hands-on experience in backend development using .NET technologies.
 
 🌟 In my most recent role, I had the opportunity to work on a .NET MAUI project for a couple of months, where I contributed to building a cross-platform application with a focus on performance and user experience.
 
